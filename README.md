@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Dhiliphan-SK-05
+- Graduated Electricl and Electronic Engineering 
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning A web development bootcamp 
 - 💞️ I’m looking to collaborate on ...
